@@ -8,6 +8,15 @@
     "build": "rimraf dist && webpack --config config/webpack.dev.js --progress --profile --bail",
     "postinstall": "typings install"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/maniishkumar/SharePointApp-Angular2.git"
+  },
+  "keywords": [
+    "Angular2",
+    "SharePoint"
+  ],
+  "author": "maniishkumar",
   "license": "MIT",
   "dependencies": {
     "@angular/common": "~2.1.0",

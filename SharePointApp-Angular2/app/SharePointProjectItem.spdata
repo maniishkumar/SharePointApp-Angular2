@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="app\" Type="ElementManifest" />
+    <ProjectItemFile Source="css\site.css" Target="app\css\" Type="ElementFile" />
+    <ProjectItemFile Source="app.js.map" Target="app\" Type="ElementFile" />
+    <ProjectItemFile Source="polyfills.js" Target="app\" Type="ElementFile" />
+    <ProjectItemFile Source="polyfills.js.map" Target="app\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor.js" Target="app\" Type="ElementFile" />
+    <ProjectItemFile Source="vendor.js.map" Target="app\" Type="ElementFile" />
+    <ProjectItemFile Source="app.js" Target="app\" Type="ElementFile" />
+  </Files>
+</ProjectItem>

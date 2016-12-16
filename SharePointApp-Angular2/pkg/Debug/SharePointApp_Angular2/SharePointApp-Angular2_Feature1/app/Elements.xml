@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="app">
+    <File Path="app\css\site.css" Url="app/css/site.css" ReplaceContent="TRUE" />
+    <File Path="app\app.js.map" Url="app/app.js.map" ReplaceContent="TRUE" />
+    <File Path="app\polyfills.js" Url="app/polyfills.js" ReplaceContent="TRUE" />
+    <File Path="app\polyfills.js.map" Url="app/polyfills.js.map" ReplaceContent="TRUE" />
+    <File Path="app\vendor.js" Url="app/vendor.js" ReplaceContent="TRUE" />
+    <File Path="app\vendor.js.map" Url="app/vendor.js.map" ReplaceContent="TRUE" />
+    <File Path="app\app.js" Url="app/app.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

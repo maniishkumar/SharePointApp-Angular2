@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\src\app\app.component.ts" Url="Scripts/src/app/app.component.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\src\app\app.module.ts" Url="Scripts/src/app/app.module.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\src\main.ts" Url="Scripts/src/main.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\config\helpers.js" Url="Scripts/config/helpers.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\config\webpack.common.js" Url="Scripts/config/webpack.common.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\config\webpack.dev.js" Url="Scripts/config/webpack.dev.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\src\polyfills.ts" Url="Scripts/src/polyfills.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\src\vendor.ts" Url="Scripts/src/vendor.ts" ReplaceContent="TRUE" />
+    <File Path="Scripts\src\app\user.component.ts" Url="Scripts/src/app/user.component.ts" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

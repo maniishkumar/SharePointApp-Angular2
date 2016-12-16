@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="RootModule">
+    <File Path="webpack.config.js" Url="webpack.config.js" ReplaceContent="TRUE" />
+    <File Path="Gulpfile.js" Url="Gulpfile.js" ReplaceContent="TRUE" />
+    <File Path=".gitignore" Url=".gitignore" ReplaceContent="TRUE" />
+  </Module>
+</Elements>

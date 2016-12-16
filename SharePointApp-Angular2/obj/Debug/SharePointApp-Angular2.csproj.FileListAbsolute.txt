@@ -1,0 +1,3 @@
+E:\Workbook\Practice\SharePoint2013\SharePointApp-Angular2\SharePointApp-Angular2\bin\Debug\SharePointApp-Angular2.pdb
+E:\Workbook\Practice\SharePoint2013\SharePointApp-Angular2\SharePointApp-Angular2\obj\Debug\SharePointApp-Angular2.dll
+E:\Workbook\Practice\SharePoint2013\SharePointApp-Angular2\SharePointApp-Angular2\obj\Debug\SharePointApp-Angular2.pdb

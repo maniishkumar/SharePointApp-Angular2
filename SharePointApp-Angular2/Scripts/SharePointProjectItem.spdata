@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ProjectItem Type="Microsoft.VisualStudio.SharePoint.Module" DefaultFile="Elements.xml" SupportedTrustLevels="All" SupportedDeploymentScopes="Web, Site" xmlns="http://schemas.microsoft.com/VisualStudio/2010/SharePointTools/SharePointProjectItemModel">
+  <Files>
+    <ProjectItemFile Source="Elements.xml" Target="Scripts\" Type="ElementManifest" />
+    <ProjectItemFile Source="src\app\app.component.ts" Target="Scripts\src\app\" Type="ElementFile" />
+    <ProjectItemFile Source="src\app\app.module.ts" Target="Scripts\src\app\" Type="ElementFile" />
+    <ProjectItemFile Source="src\main.ts" Target="Scripts\src\" Type="ElementFile" />
+    <ProjectItemFile Source="config\helpers.js" Target="Scripts\config\" Type="ElementFile" />
+    <ProjectItemFile Source="config\webpack.common.js" Target="Scripts\config\" Type="ElementFile" />
+    <ProjectItemFile Source="config\webpack.dev.js" Target="Scripts\config\" Type="ElementFile" />
+    <ProjectItemFile Source="src\polyfills.ts" Target="Scripts\src\" Type="ElementFile" />
+    <ProjectItemFile Source="src\vendor.ts" Target="Scripts\src\" Type="ElementFile" />
+    <ProjectItemFile Source="src\app\user.component.ts" Target="Scripts\src\app\" Type="ElementFile" />
+  </Files>
+</ProjectItem>
